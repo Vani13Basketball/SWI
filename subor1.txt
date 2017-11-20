@@ -1,1 +1,3 @@
 toto je prvy subor, ktory chcem dat na git
+
+prave prepisujem subor vo vetve vetva2
