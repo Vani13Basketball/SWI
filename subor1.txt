@@ -1,0 +1,1 @@
+toto je prvy subor, ktory chcem dat na git
